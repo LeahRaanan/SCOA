@@ -19,14 +19,13 @@ An advanced AI-driven system designed to automatically process, summarize, and c
 ### Frontend
 * **Framework:** Angular
 * **Language:** TypeScript, JavaScript
-* **Styling:** HTML5, CSS3 / SCSS
+* **Styling:** HTML5, CSS3
 
 ### Backend & AI
 * **Core Languages:** Python, C#
-* **AI & NLP Ecosystem:** Natural Language Processing models for text summarization and classification.
+* **AI & NLP:** Text summarization and classification powered by RoBERTa and BART models.
 
 ### Databases
-* **Relational:** SQL Server
 * **NoSQL / Document:** MongoDB
 
 ---
