@@ -1,0 +1,235 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E9\u05E0\u05EA\u05D9\\SCOA\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C362E56B-E139-4A56-B045-6B963310AAB0}|BLL\\BLL.csproj|c:\\users\\user\\documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E9\u05E0\u05EA\u05D9\\scoa\\bll\\bllservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C362E56B-E139-4A56-B045-6B963310AAB0}|BLL\\BLL.csproj|solutionrelative:bll\\bllservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44046AAC-E6BC-424E-9D95-0C9F8D3B9285}|DAL\\DAL.csproj|c:\\users\\user\\documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E9\u05E0\u05EA\u05D9\\scoa\\dal\\models\\updateprofiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44046AAC-E6BC-424E-9D95-0C9F8D3B9285}|DAL\\DAL.csproj|solutionrelative:dal\\models\\updateprofiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C362E56B-E139-4A56-B045-6B963310AAB0}|BLL\\BLL.csproj|c:\\users\\user\\documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E9\u05E0\u05EA\u05D9\\scoa\\bll\\aiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C362E56B-E139-4A56-B045-6B963310AAB0}|BLL\\BLL.csproj|solutionrelative:bll\\aiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44046AAC-E6BC-424E-9D95-0C9F8D3B9285}|DAL\\DAL.csproj|c:\\users\\user\\documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E9\u05E0\u05EA\u05D9\\scoa\\dal\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44046AAC-E6BC-424E-9D95-0C9F8D3B9285}|DAL\\DAL.csproj|solutionrelative:dal\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44046AAC-E6BC-424E-9D95-0C9F8D3B9285}|DAL\\DAL.csproj|c:\\users\\user\\documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E9\u05E0\u05EA\u05D9\\scoa\\dal\\models\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44046AAC-E6BC-424E-9D95-0C9F8D3B9285}|DAL\\DAL.csproj|solutionrelative:dal\\models\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D21D762-8CFE-45A8-BC85-77B7D814E419}|SCOA\\SCOA.csproj|c:\\users\\user\\documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E9\u05E0\u05EA\u05D9\\scoa\\scoa\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D21D762-8CFE-45A8-BC85-77B7D814E419}|SCOA\\SCOA.csproj|solutionrelative:scoa\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C362E56B-E139-4A56-B045-6B963310AAB0}|BLL\\BLL.csproj|c:\\users\\user\\documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E9\u05E0\u05EA\u05D9\\scoa\\bll\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C362E56B-E139-4A56-B045-6B963310AAB0}|BLL\\BLL.csproj|solutionrelative:bll\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44046AAC-E6BC-424E-9D95-0C9F8D3B9285}|DAL\\DAL.csproj|c:\\users\\user\\documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E9\u05E0\u05EA\u05D9\\scoa\\dal\\models\\article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44046AAC-E6BC-424E-9D95-0C9F8D3B9285}|DAL\\DAL.csproj|solutionrelative:dal\\models\\article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C362E56B-E139-4A56-B045-6B963310AAB0}|BLL\\BLL.csproj|c:\\users\\user\\documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E9\u05E0\u05EA\u05D9\\scoa\\bll\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C362E56B-E139-4A56-B045-6B963310AAB0}|BLL\\BLL.csproj|solutionrelative:bll\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D21D762-8CFE-45A8-BC85-77B7D814E419}|SCOA\\SCOA.csproj|c:\\users\\user\\documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E9\u05E0\u05EA\u05D9\\scoa\\scoa\\controllers\\newscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D21D762-8CFE-45A8-BC85-77B7D814E419}|SCOA\\SCOA.csproj|solutionrelative:scoa\\controllers\\newscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44046AAC-E6BC-424E-9D95-0C9F8D3B9285}|DAL\\DAL.csproj|c:\\users\\user\\documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E9\u05E0\u05EA\u05D9\\scoa\\dal\\mongodbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44046AAC-E6BC-424E-9D95-0C9F8D3B9285}|DAL\\DAL.csproj|solutionrelative:dal\\mongodbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D21D762-8CFE-45A8-BC85-77B7D814E419}|SCOA\\SCOA.csproj|c:\\users\\user\\documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E9\u05E0\u05EA\u05D9\\scoa\\scoa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D21D762-8CFE-45A8-BC85-77B7D814E419}|SCOA\\SCOA.csproj|solutionrelative:scoa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D21D762-8CFE-45A8-BC85-77B7D814E419}|SCOA\\SCOA.csproj|c:\\users\\user\\documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E9\u05E0\u05EA\u05D9\\scoa\\scoa\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5D21D762-8CFE-45A8-BC85-77B7D814E419}|SCOA\\SCOA.csproj|solutionrelative:scoa\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RegisterRequest.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E9\u05E0\u05EA\u05D9\\SCOA\\DAL\\Models\\RegisterRequest.cs",
+              "RelativeDocumentMoniker": "DAL\\Models\\RegisterRequest.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E9\u05E0\u05EA\u05D9\\SCOA\\DAL\\Models\\RegisterRequest.cs*",
+              "RelativeToolTip": "DAL\\Models\\RegisterRequest.cs*",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAQwBUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-18T10:10:39.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UpdateProfileDto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E9\u05E0\u05EA\u05D9\\SCOA\\DAL\\Models\\UpdateProfileDto.cs",
+              "RelativeDocumentMoniker": "DAL\\Models\\UpdateProfileDto.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E9\u05E0\u05EA\u05D9\\SCOA\\DAL\\Models\\UpdateProfileDto.cs",
+              "RelativeToolTip": "DAL\\Models\\UpdateProfileDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-18T10:10:22.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E9\u05E0\u05EA\u05D9\\SCOA\\DAL\\Models\\User.cs",
+              "RelativeDocumentMoniker": "DAL\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E9\u05E0\u05EA\u05D9\\SCOA\\DAL\\Models\\User.cs",
+              "RelativeToolTip": "DAL\\Models\\User.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAA1wCkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T19:37:19.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AIService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E9\u05E0\u05EA\u05D9\\SCOA\\BLL\\AIService.cs",
+              "RelativeDocumentMoniker": "BLL\\AIService.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E9\u05E0\u05EA\u05D9\\SCOA\\BLL\\AIService.cs",
+              "RelativeToolTip": "BLL\\AIService.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAgwE8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T17:07:31.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BLLService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E9\u05E0\u05EA\u05D9\\SCOA\\BLL\\BLLService.cs",
+              "RelativeDocumentMoniker": "BLL\\BLLService.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E9\u05E0\u05EA\u05D9\\SCOA\\BLL\\BLLService.cs",
+              "RelativeToolTip": "BLL\\BLLService.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAADgv2sAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T17:44:49.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "NewsController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E9\u05E0\u05EA\u05D9\\SCOA\\SCOA\\Controllers\\NewsController.cs",
+              "RelativeDocumentMoniker": "SCOA\\Controllers\\NewsController.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E9\u05E0\u05EA\u05D9\\SCOA\\SCOA\\Controllers\\NewsController.cs",
+              "RelativeToolTip": "SCOA\\Controllers\\NewsController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwBkAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T17:58:07.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E9\u05E0\u05EA\u05D9\\SCOA\\SCOA\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "SCOA\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E9\u05E0\u05EA\u05D9\\SCOA\\SCOA\\Controllers\\UserController.cs*",
+              "RelativeToolTip": "SCOA\\Controllers\\UserController.cs*",
+              "ViewState": "AgIAAIUAAAAAAAAAAADwv5oAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T16:43:13.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E9\u05E0\u05EA\u05D9\\SCOA\\SCOA\\Program.cs",
+              "RelativeDocumentMoniker": "SCOA\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E9\u05E0\u05EA\u05D9\\SCOA\\SCOA\\Program.cs",
+              "RelativeToolTip": "SCOA\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAgwEYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T12:36:13.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Article.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E9\u05E0\u05EA\u05D9\\SCOA\\DAL\\Models\\Article.cs",
+              "RelativeDocumentMoniker": "DAL\\Models\\Article.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E9\u05E0\u05EA\u05D9\\SCOA\\DAL\\Models\\Article.cs",
+              "RelativeToolTip": "DAL\\Models\\Article.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAqwCoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T17:25:41.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Worker.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E9\u05E0\u05EA\u05D9\\SCOA\\BLL\\Worker.cs",
+              "RelativeDocumentMoniker": "BLL\\Worker.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E9\u05E0\u05EA\u05D9\\SCOA\\BLL\\Worker.cs",
+              "RelativeToolTip": "BLL\\Worker.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAYwDYAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T16:29:07.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E9\u05E0\u05EA\u05D9\\SCOA\\BLL\\EmailService.cs",
+              "RelativeDocumentMoniker": "BLL\\EmailService.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E9\u05E0\u05EA\u05D9\\SCOA\\BLL\\EmailService.cs",
+              "RelativeToolTip": "BLL\\EmailService.cs",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAcwIAAAAD+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T15:33:30.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MongoDBService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E9\u05E0\u05EA\u05D9\\SCOA\\DAL\\MongoDBService.cs",
+              "RelativeDocumentMoniker": "DAL\\MongoDBService.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E9\u05E0\u05EA\u05D9\\SCOA\\DAL\\MongoDBService.cs",
+              "RelativeToolTip": "DAL\\MongoDBService.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAewCAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T17:36:26.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E9\u05E0\u05EA\u05D9\\SCOA\\SCOA\\appsettings.json",
+              "RelativeDocumentMoniker": "SCOA\\appsettings.json",
+              "ToolTip": "C:\\Users\\User\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E9\u05E0\u05EA\u05D9\\SCOA\\SCOA\\appsettings.json",
+              "RelativeToolTip": "SCOA\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-11T08:56:00.082Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
