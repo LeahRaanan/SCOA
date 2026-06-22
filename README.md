@@ -1,13 +1,14 @@
 
 # SCOA - Summary and Classification of Articles
 
-An advanced AI-driven system designed to automatically process, summarize, and classify long-form news articles. The platform features a dynamic hybrid recommendation system that analyzes user preferences to deliver a personalized, tailored content feed based on their specific interests.
+An advanced AI-driven system designed to automatically process, summarize, and perform multi-label classification on long-form news articles. The platform features a dynamic hybrid recommendation system that analyzes user preferences to deliver a personalized, tailored content feed based on their specific interests.
 
 ---
 
 ## Key Features
 
 * **AI-Powered Summarization:** Condenses lengthy news articles into clear, concise, and actionable key insights using state-of-the-art NLP models.
+* * **Multi-Label Classification:** Automatically categorizes and tags incoming text into multiple relevant domains simultaneously using advanced NLP models.
 * **Automated Classification:** Automatically categorizes and tags incoming text and news into relevant domains.
 * **Hybrid Recommendation System:** Combines content-based filtering and user interest analysis to dynamically rank and deliver personalized content.
 * **Modern Architecture:** A full-stack implementation separating a responsive client interface from a highly scalable data-processing backend.
